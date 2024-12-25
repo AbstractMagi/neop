@@ -445,17 +445,20 @@
     {
       "name": "Seasonal Attack Pea",
       "rarity": "(r101)",
-      "price": "35,000,000 NP"
+      "price": "35,000,000 NP",
+      "rating": "8.8"
     },
     {
       "name": "Superior Reflection Shield",
       "rarity": "(r99)",
-      "price": "35,000,000 NP"
+      "price": "35,000,000 NP",
+      "rating": "8.5"
     },
     {
       "name": "Ultra Dual Shovel",
       "rarity": "(r99)",
-      "price": "35,000,000 NP"
+      "price": "35,000,000 NP",
+      "rating": "8.3"
     },
     {
       "name": "Yooyu Eyes",
@@ -1209,7 +1212,8 @@
     {
       "name": "Monoceraptors Claw",
       "rarity": "(r180)",
-      "price": "15,000,000 NP"
+      "price": "15,000,000 NP",
+      "rating": "6"
     },
     {
       "name": "Morris Stamp",
@@ -1244,7 +1248,8 @@
     {
       "name": "Sword of Lameness",
       "rarity": "(r200)",
-      "price": "15,000,000 NP"
+      "price": "15,000,000 NP",
+      "rating": "8.8"
     },
     {
       "name": "Taelia Vs. Ember Stamp",
@@ -1604,7 +1609,8 @@
     {
       "name": "Greater Staff of the Earth Faerie",
       "rarity": "(r180)",
-      "price": "10,000,000 NP"
+      "price": "10,000,000 NP",
+      "rating": "5"
     },
     {
       "name": "Green Picnic Hamper",
@@ -1784,7 +1790,8 @@
     {
       "name": "Sword of Ari",
       "rarity": "(r200)",
-      "price": "10,000,000 NP"
+      "price": "10,000,000 NP",
+      "rating": "8.8"
     },
     {
       "name": "The Bad Skeith",
@@ -2167,7 +2174,8 @@
     {
       "name": "Mega U-Bend",
       "rarity": "(r99)",
-      "price": "8,000,000 NP"
+      "price": "8,000,000 NP",
+      "rating": "8.5"
     },
     {
       "name": "Melatite Dervish Plushie",
@@ -2798,7 +2806,8 @@
     {
       "name": "Grapes of Wrath",
       "rarity": "(r101)",
-      "price": "6,000,000 NP"
+      "price": "6,000,000 NP",
+      "rating": "8.5"
     },
     {
       "name": "Green Cybunny Morphing Potion",
@@ -2843,7 +2852,8 @@
     {
       "name": "Kelpbeards Trident",
       "rarity": "(r200)",
-      "price": "6,000,000 NP"
+      "price": "6,000,000 NP",
+      "rating": "8.4"
     },
     {
       "name": "Kyrii Royal Girl Plushie Handheld",
@@ -10179,8 +10189,7 @@
     {
       "name": "Bow of Destiny",
       "rarity": "(r101)",
-      "price": "1,300,000 NP",
-      "rating": "4.8"
+      "price": "1,300,000 NP"
     },
     {
       "name": "Cheese Mat",
@@ -23991,7 +24000,8 @@
     {
       "name": "Sleep Ray",
       "rarity": "(r101)",
-      "price": "445,000 NP"
+      "price": "445,000 NP",
+      "rating": "8.3"
     },
     {
       "name": "Space Station 1.16 WC Piece",
@@ -24471,7 +24481,8 @@
     {
       "name": "Dacardian Swords of Valor",
       "rarity": "(r101)",
-      "price": "420,000 NP"
+      "price": "420,000 NP",
+      "rating": "6"
     },
     {
       "name": "Dimensional Shoyru Morphing Potion",
@@ -26794,7 +26805,8 @@
     {
       "name": "Combo Battle Mirror",
       "rarity": "(r99)",
-      "price": "335,000 NP"
+      "price": "335,000 NP",
+      "rating": "6"
     },
     {
       "name": "Dapper Quiggle Tea & Cookies",
@@ -29301,7 +29313,8 @@
     {
       "name": "Wanderers Cloak",
       "rarity": "(r97)",
-      "price": "260,000 NP"
+      "price": "260,000 NP",
+      "rating": "8.7"
     },
     {
       "name": "World Challenge Piece Kreludor 1.20",
@@ -29506,7 +29519,8 @@
     {
       "name": "Magic Gridlock Gun",
       "rarity": "(r101)",
-      "price": "250,000 NP"
+      "price": "250,000 NP",
+      "rating": "8.5"
     },
     {
       "name": "Mime Usuki Cookies",
@@ -30006,7 +30020,8 @@
     {
       "name": "Cobrall Utility Blade",
       "rarity": "(r101)",
-      "price": "237,000 NP"
+      "price": "237,000 NP",
+      "rating": "8.5"
     },
     {
       "name": "Crystal Tablet",
@@ -30536,7 +30551,8 @@
     {
       "name": "Bowling Ball of Lost Cities",
       "rarity": "(r101)",
-      "price": "224,000 NP"
+      "price": "224,000 NP",
+      "rating": "8.5"
     },
     {
       "name": "N-4 Information Retrieval Bot Coin",
@@ -32991,7 +33007,8 @@
     {
       "name": "Altadorian Swordbreaker",
       "rarity": "(r94)",
-      "price": "175,000 NP"
+      "price": "175,000 NP",
+      "rating": "8.3"
     },
     {
       "name": "Camouflage Lenny Morphing Potion",
@@ -35833,7 +35850,8 @@
     {
       "name": "Dangerous Maraquan Yo-yo",
       "rarity": "(r101)",
-      "price": "123,000 NP"
+      "price": "123,000 NP",
+      "rating": "9"
     },
     {
       "name": "Kadoatie Usuki Set",
@@ -45707,7 +45725,8 @@
     {
       "name": "Lenny Ray Gun of Freezing",
       "rarity": "(r98)",
-      "price": "58,500 NP"
+      "price": "58,500 NP",
+      "rating": "8.7"
     },
     {
       "name": "Magnetic Tiles Koujong Toy",
@@ -47679,7 +47698,8 @@
     {
       "name": "Whirling Mopper",
       "rarity": "(r101)",
-      "price": "51,000 NP"
+      "price": "51,000 NP",
+      "rating": "7"
     },
     {
       "name": "Babaa (TCG)",
@@ -50553,7 +50573,8 @@
     {
       "name": "Ancient Lupe Wand",
       "rarity": "(r113)",
-      "price": "43,800 NP"
+      "price": "43,800 NP",
+      "rating": "8.3"
     },
     {
       "name": "Reject Marshmallow Grundo",
@@ -51023,7 +51044,8 @@
     {
       "name": "Hansos Legitimately Acquired Dagger",
       "rarity": "(r101)",
-      "price": "42,100 NP"
+      "price": "42,100 NP",
+      "rating": "5"
     },
     {
       "name": "5/6 Turkey and Cranberry Pizza",
@@ -54389,7 +54411,8 @@
     {
       "name": "Super Hemlock Dart",
       "rarity": "(r104)",
-      "price": "35,000 NP"
+      "price": "35,000 NP",
+      "rating": "6"
     },
     {
       "name": "The Pineapple Chia",
@@ -56577,7 +56600,8 @@
     {
       "name": "Spellseeker Vial of Power",
       "rarity": "(r101)",
-      "price": "30,000 NP"
+      "price": "30,000 NP",
+      "rating": "6"
     },
     {
       "name": "Springtime Negg Snowglobe",
@@ -59476,7 +59500,8 @@
     {
       "name": "Patched Magic Hat",
       "rarity": "(r92)",
-      "price": "25,000 NP"
+      "price": "25,000 NP",
+      "rating": "8.5"
     },
     {
       "name": "Pencil Crossbow",
@@ -60654,7 +60679,8 @@
     {
       "name": "Flowers of Inner Healing",
       "rarity": "(r101)",
-      "price": "23,500 NP"
+      "price": "23,500 NP",
+      "rating": "7"
     },
     {
       "name": "Hidden Neggs Trinket",
@@ -61522,7 +61548,8 @@
     {
       "name": "Ivy Laced Cloak",
       "rarity": "(r95)",
-      "price": "22,200 NP"
+      "price": "22,200 NP",
+      "rating": "5"
     },
     {
       "name": "Learn to Swim",
@@ -62599,7 +62626,8 @@
     {
       "name": "Jhudoras Cursed Sword",
       "rarity": "(r97)",
-      "price": "20,900 NP"
+      "price": "20,900 NP",
+      "rating": "5.5"
     },
     {
       "name": "Lawyerbot Bento Box",
@@ -81144,7 +81172,8 @@
     {
       "name": "Amulet of Pie",
       "rarity": "(r96)",
-      "price": "9,650 NP"
+      "price": "9,650 NP",
+      "rating": "7"
     },
     {
       "name": "Aqua Encrusted Dragoyle Box",
@@ -88995,7 +89024,8 @@
     {
       "name": "The Omelette Sceptre",
       "rarity": "(r101)",
-      "price": "7,950 NP"
+      "price": "7,950 NP",
+      "rating": "7"
     },
     {
       "name": "Tough Eyrie Boots",
@@ -111532,7 +111562,8 @@
     {
       "name": "Downsize!",
       "rarity": "(r68)",
-      "price": "4,225 NP"
+      "price": "4,225 NP",
+      "rating": "8.3"
     },
     {
       "name": "Electric Moehog Plushie",
@@ -111722,7 +111753,8 @@
     {
       "name": "Gleaming Qasalan Crossbow",
       "rarity": "(r79)",
-      "price": "4,200 NP"
+      "price": "4,200 NP",
+      "rating": "5"
     },
     {
       "name": "Gold Leaf Creambowl",
@@ -113572,7 +113604,8 @@
     {
       "name": "Leaf Shield",
       "rarity": "(r101)",
-      "price": "4,000 NP"
+      "price": "4,000 NP",
+      "rating": "8.3"
     },
     {
       "name": "Leafy Saxophone",
@@ -114143,7 +114176,8 @@
     {
       "name": "Thick Smoke Bomb",
       "rarity": "(r101)",
-      "price": "4,000 NP"
+      "price": "4,000 NP",
+      "rating": "8.7"
     },
     {
       "name": "Tiered Fringe Ruki Dress",
@@ -120967,7 +121001,8 @@
     {
       "name": "Bow of the Hegelob",
       "rarity": "(r89)",
-      "price": "3,250 NP"
+      "price": "3,250 NP",
+      "rating": "6"
     },
     {
       "name": "Briar The Ixi",
@@ -124774,6 +124809,342 @@
       "name": "Zafara Red WoollenTop",
       "rarity": "(r83)",
       "price": "3,000 NP"
+    },
+    {
+      "name": "Castle Defenders Shield",
+      "rating": "5"
+    },
+    {
+      "name": "Sword of Malum",
+      "rating": "5"
+    },
+    {
+      "name": "Blazing Embers",
+      "rating": "5"
+    },
+    {
+      "name": "Bleached Bone Staff",
+      "rating": "5"
+    },
+    {
+      "name": "Holiday Memories",
+      "rating": "5"
+    },
+    {
+      "name": "Green Frost Cannon",
+      "rating": "5"
+    },
+    {
+      "name": "Underwater Oven Gloves",
+      "rating": "5"
+    },
+    {
+      "name": "Fierce Grarrl Helmet",
+      "rating": "5"
+    },
+    {
+      "name": "Dacardite Scorchstone",
+      "rating": "5"
+    },
+    {
+      "name": "Icy Muffin",
+      "rating": "5"
+    },
+    {
+      "name": "Fiendish Key",
+      "rating": "5"
+    },
+    {
+      "name": "Commemorative Battle Faerie Axe",
+      "rating": "5"
+    },
+    {
+      "name": "Platinum JubJub Shield",
+      "rating": "5"
+    },
+    {
+      "name": "Oversized Maractite Rune Sword",
+      "rating": "5"
+    },
+    {
+      "name": "Korbats Lab Potion",
+      "rating": "5"
+    },
+    {
+      "name": "Scroll of the Earth",
+      "rating": "5"
+    },
+    {
+      "name": "Lair Beast Tooth Shield",
+      "rating": "5.2"
+    },
+    {
+      "name": "Brain Muffin",
+      "rating": "5.3"
+    },
+    {
+      "name": "Glittery Scorchstone",
+      "rating": "5.5"
+    },
+    {
+      "name": "Fiery Sun Scroll",
+      "rating": "5.5"
+    },
+    {
+      "name": "Iron Lupe Helm",
+      "rating": "5.5"
+    },
+    {
+      "name": "Hobans Hat",
+      "rating": "5.5"
+    },
+    {
+      "name": "Chia Flour",
+      "rating": "5.5"
+    },
+    {
+      "name": "Rancid Battle Dung",
+      "rating": "5.5"
+    },
+    {
+      "name": "Pike Pike",
+      "rating": "5.5"
+    },
+    {
+      "name": "Rainbow Scroll",
+      "rating": "5.6"
+    },
+    {
+      "name": "Sword of White Lies",
+      "rating": "5.6"
+    },
+    {
+      "name": "Scroll of Three Curses",
+      "rating": "5.7"
+    },
+    {
+      "name": "The Death Knell",
+      "rating": "5.7"
+    },
+    {
+      "name": "Sword of Thigl",
+      "rating": "5.7"
+    },
+    {
+      "name": "Rainbow Swirly Thing",
+      "rating": "5.7"
+    },
+    {
+      "name": "Robot Muffin",
+      "rating": "5.7"
+    },
+    {
+      "name": "Darigan Muffin",
+      "rating": "5.8"
+    },
+    {
+      "name": "Glittery Faerie Dust",
+      "rating": "5.8"
+    },
+    {
+      "name": "Flask of Liquid Light",
+      "rating": "6"
+    },
+    {
+      "name": "Pocket Lab Ray",
+      "rating": "6"
+    },
+    {
+      "name": "Gilded War Hammer",
+      "rating": "6"
+    },
+    {
+      "name": "Greater Healing Scroll",
+      "rating": "6"
+    },
+    {
+      "name": "Potion of Concealment",
+      "rating": "6"
+    },
+    {
+      "name": "Reflecting Vanities",
+      "rating": "6"
+    },
+    {
+      "name": "Scroll of the Fool",
+      "rating": "6"
+    },
+    {
+      "name": "Scroll of Disorientation",
+      "rating": "6"
+    },
+    {
+      "name": "Steel Chomby Chestplate",
+      "rating": "6"
+    },
+    {
+      "name": "Nurias Battle Shield",
+      "rating": "6"
+    },
+    {
+      "name": "Platinum Kacheek Shield",
+      "rating": "6"
+    },
+    {
+      "name": "Platinum Shoyru Shield",
+      "rating": "6"
+    },
+    {
+      "name": "Platinum Kougra Shield",
+      "rating": "6"
+    },
+    {
+      "name": "Shiny Shoal Shell Shield",
+      "rating": "6"
+    },
+    {
+      "name": "Disgruntled Janitors Bucket &amp; Mop",
+      "rating": "6"
+    },
+    {
+      "name": "Jetsam Fin Guard",
+      "rating": "6"
+    },
+    {
+      "name": "Slippery Floor Potion",
+      "rating": "6.3"
+    },
+    {
+      "name": "Sword of Tawre",
+      "rating": "6.3"
+    },
+    {
+      "name": "Scroll of Knowledge",
+      "rating": "6.3"
+    },
+    {
+      "name": "Haunted Skull Fan",
+      "rating": "6.3"
+    },
+    {
+      "name": "Rainbow Scorchstone",
+      "rating": "6.3"
+    },
+    {
+      "name": "Slumberberry Potion",
+      "rating": "6.3"
+    },
+    {
+      "name": "Festive Holiday Scroll",
+      "rating": "6.3"
+    },
+    {
+      "name": "Ultranova",
+      "rating": "6.3"
+    },
+    {
+      "name": "Attack Pea",
+      "rating": "6.3"
+    },
+    {
+      "name": "Flaming Oven Gloves",
+      "rating": "6.3"
+    },
+    {
+      "name": "Flaming Blooble Potion",
+      "rating": "6.7"
+    },
+    {
+      "name": "Virtupets X-514 Super Shield",
+      "rating": "6.7"
+    },
+    {
+      "name": "Scroll of the Wise",
+      "rating": "6.7"
+    },
+    {
+      "name": "Frozen Cyodrake Shield",
+      "rating": "6.7"
+    },
+    {
+      "name": "Golden Pirate Amulet",
+      "rating": "6.7"
+    },
+    {
+      "name": "Lesser Healing Scroll",
+      "rating": "6.8"
+    },
+    {
+      "name": "Oasis Tonic",
+      "rating": "6.8"
+    },
+    {
+      "name": "Ridiculously Heavy Battle Hammer",
+      "rating": "6.8"
+    },
+    {
+      "name": "Faerie Slingshot",
+      "rating": "7"
+    },
+    {
+      "name": "Dr. Sloths Personal Body Armour",
+      "rating": "7"
+    },
+    {
+      "name": "Skarls Sword",
+      "rating": "7.3"
+    },
+    {
+      "name": "Flask of Liquid Fire",
+      "rating": "7.4"
+    },
+    {
+      "name": "Lucky Robots Foot",
+      "rating": "7.5"
+    },
+    {
+      "name": "Crystal Plateau Dacardian Shield",
+      "rating": "7.5"
+    },
+    {
+      "name": "Jade Elixir",
+      "rating": "7.7"
+    },
+    {
+      "name": "Scroll of Ultranova",
+      "rating": "7.9"
+    },
+    {
+      "name": "Sword of Thare",
+      "rating": "8"
+    },
+    {
+      "name": "Kooky Myriad Maker",
+      "rating": "8"
+    },
+    {
+      "name": "Bundle of Burning Birch Branches",
+      "rating": "8"
+    },
+    {
+      "name": "Cursed Elixir",
+      "rating": "8.2"
+    },
+    {
+      "name": "Rusty Pitchfork",
+      "rating": "8.3"
+    },
+    {
+      "name": "Parasol of Unfortunate Demise",
+      "rating": "9"
+    },
+    {
+      "name": "Moehog Skull",
+      "rating": "9"
+    },
+    {
+      "name": "Super Attack Pea",
+      "rating": "9.6"
     }
   ]
 }
